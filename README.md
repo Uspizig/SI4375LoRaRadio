@@ -59,7 +59,7 @@
 ## Specifications
 
 <p align="center"> 
-<img src="./images/IMG_20250218_081912.jpg">
+<img src="./Images/Schematic.jpg">
 </p>
 
 <p align="center"> 
