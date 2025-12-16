@@ -8,11 +8,11 @@
 
 
 <p align="center"> 
-<img src="./Images/Back.jpg" width="400" height="400"/>
+<img src="./Images/Back.jpg" width="600" height="400"/>
 </p>
 
  <p align="center"> 
-<img src="./Images/Front2.jpg" width="400" height="180"/>
+<img src="./Images/Front2.jpg" width="600" height="180"/>
 </p>
 
 ## Features:
