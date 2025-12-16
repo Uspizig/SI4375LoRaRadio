@@ -63,7 +63,7 @@
 </p>
 
 <p align="center"> 
-<img src="./Images/Display.jpg" width="400" height="400"/>
+<img src="./Images/PCB_TOP.jpg" width="400" height="400"/>
 </p>
 
 <p align="center"> 
@@ -71,7 +71,7 @@
 </p>
 
 <p align="center"> 
-<img src="./Images/IMG_20250110_205430.jpg" width="400" height="180"/>
+<img src="./Images/PCB_BOTTOM.jpg" width="400" height="180"/>
 </p>
 
 
