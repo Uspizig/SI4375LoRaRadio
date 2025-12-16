@@ -25,7 +25,7 @@
 
 4.  **Heltec Lora HT-CT62 **: For Recieving and Transmittng LoRa, Meshtastic, TheThingsNetwork, Meshcore
 
-5.  SI5351 VCO Generator, 3 Outputs to 160MHz 
+5.  SI5351 VCO Generator, 3 RF Outputs: 2.5 khz to 160MHz 
 
 6. **I2C Connector for Sensor**: Connect your favourite I2C Sensor board with the embedded 2.54mm connector
 
