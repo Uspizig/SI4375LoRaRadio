@@ -45,7 +45,7 @@
 
 9. Extension Modules - Compatible to Seeed Sensors and Displays
 <p align="center"> 
-<img src="./images/Bottom.jpg" width="400" height="400"/>
+<img src="./Images/Display.jpg" width="400" height="400"/>
 </p>
 
 9. **RGB LED**: Status LED
@@ -63,15 +63,15 @@
 </p>
 
 <p align="center"> 
-<img src="./images/Top2.jpg" width="400" height="400"/>
+<img src="./Images/Display.jpg" width="400" height="400"/>
 </p>
 
 <p align="center"> 
-<img src="./images/Bottom2.jpg" width="400" height="400"/>
+<img src="./Images/Housing.jpg" width="400" height="400"/>
 </p>
 
 <p align="center"> 
-<img src="./images/IMG_20250110_205430.jpg" width="400" height="180"/>
+<img src="./Images/IMG_20250110_205430.jpg" width="400" height="180"/>
 </p>
 
 
