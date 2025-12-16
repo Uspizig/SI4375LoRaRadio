@@ -50,11 +50,7 @@
 
 9. **RGB LED**: Status LED
 
-10. **Battery Charger** Use the Battery Charger on the Seeed Display
-
-11. **Rotary Encoder** Perfect for switching the Radio Station
-
-12.  BME680: Measure Temperature, Humidity, Air Pressure, TVOC, eCO² (might update to BME688 or BME690 soon)
+10.  BME680: Measure Temperature, Humidity, Air Pressure, TVOC, eCO² (might update to BME688 or BME690 soon)
     
 ## Specifications
 
