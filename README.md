@@ -12,7 +12,7 @@
 </p>
 
  <p align="center"> 
-<img src="./Images/Front2.jpg" width="600" height="180"/>
+<img src="./Images/Front2.jpg" width="600" height="400"/>
 </p>
 
 ## Features:
