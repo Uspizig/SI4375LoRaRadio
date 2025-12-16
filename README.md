@@ -1,4 +1,4 @@
-# SensePuck: The Addon Board for the Seeed Round Display
+# SensePuck_Radio: The Triple Tuner Platform for Meshtastic, LoRa, FM & AM
 
 
 <p align="center"> 
@@ -31,7 +31,7 @@
 
 7. **Wireless Control**: Untehther your development process with the wireless capabilities. With WiFi and BLE, this tool allows remote control and data logging. Users can adjust settings and monitor data from a distance, offering a more flexible development experience.
 
-8. USB-C Connector for Debuggung and Power Supply
+8. **USB-C Connector**: for Debuggung and Power Supply
 
 9. **LSM6 Gyro+ACC**: Check Movements, Steps Pedometer
 
