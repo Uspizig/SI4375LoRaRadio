@@ -2,17 +2,17 @@
 
 
 <p align="center"> 
-<img src="./images/Front.jpg">
+<img src="./Images/Front.jpg">
 </p>
 
 
 
 <p align="center"> 
-<img src="./images/Back.jpg" width="400" height="400"/>
+<img src="./Images/Back.jpg" width="400" height="400"/>
 </p>
 
  <p align="center"> 
-<img src="./images/Front2.jpg" width="400" height="180"/>
+<img src="./Images/Front2.jpg" width="400" height="180"/>
 </p>
 
 ## Features:
