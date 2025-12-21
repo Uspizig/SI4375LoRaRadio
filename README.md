@@ -23,7 +23,7 @@
 
 3. **SI4732 with Analog Audio**: Listen to AM/FM Radio
 
-4.  **Heltec Lora HT-CT62 **: For Recieving and Transmittng LoRa, Meshtastic, TheThingsNetwork, Meshcore
+4.  **Heltec Lora HT-CT62 **: For Recieving and Transmitting LoRa, Meshtastic, TheThingsNetwork, Meshcore or decode your Bresser Weather Station
 
 5.  SI5351 VCO Generator, 3 RF Outputs: 2.5 kHz to 160MHz 
 
@@ -41,22 +41,24 @@
 
 12. GPS Sensor (Optional)
 
-5. **Open Source & Programmable**: As an open-source device, the Device offers unmatched versatility. It is fully programmable, allowing you to tailor its functionality to your specific applications. This customization extends to software and hardware, opening up endless possibilities for creative and efficient project development.
+13. MLX90640/MLX90614 Thermal Sensor (Optional)
 
-6. **Compact Design**: Designed for convenience, the LoRaCam Board compact and sleek form factor allows for seamless integration into existing setups. Its compatibility with USB PD power sources and inline integration capability minimizes the need for additional equipment or extensive redesign, making it a versatile and user-friendly addition to any development environment.
+14. **Open Source & Programmable**: As an open-source device, the Device offers unmatched versatility. It is fully programmable, allowing you to tailor its functionality to your specific applications. This customization extends to software and hardware, opening up endless possibilities for creative and efficient project development.
 
-7. **Display+Touchscreeen**: Monitor live the current status on an 1.8" or 1.28" LCD Touch Display
+15. **Compact Design**: Designed for convenience, the LoRaCam Board compact and sleek form factor allows for seamless integration into existing setups. Its compatibility with USB PD power sources and inline integration capability minimizes the need for additional equipment or extensive redesign, making it a versatile and user-friendly addition to any development environment.
 
-8. **RTC**: RealTimeClock RV3032 Temp Compensated for RealTime Clock
+16. **Display+Touchscreeen**: Monitor live the current status on an 1.8" or 1.28" LCD Touch Display
 
-9. Extension Modules - Compatible to Seeed Sensors and Displays
+17. **RTC**: RealTimeClock RV3032 Temp Compensated for RealTime Clock
+
+18. Extension Modules - Compatible to Seeed Sensors and Displays
 <p align="center"> 
 <img src="./Images/Display.jpg" width="400" height="400"/>
 </p>
 
-9. **RGB LED**: Status LED
+19. **RGB LED**: Status LED WS2812-4020
 
-10.  BME680: Measure Temperature, Humidity, Air Pressure, TVOC, eCO² (might update to BME688 or BME690 soon)
+20.  BME680: Measure Temperature, Humidity, Air Pressure, TVOC, eCO² (might update to BME688 or BME690 soon)
     
 ## Specifications
 
